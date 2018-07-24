@@ -2,7 +2,7 @@
 title = "Test"
 date = 2018-07-24T13:34:31-04:00
 description = "Thank you for choosing After Dark."
-draft = true
+draft = false
 toc = false
 categories = ["technology"]
 tags = ["hello", "world"]
